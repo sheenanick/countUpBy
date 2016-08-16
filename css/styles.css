@@ -1,8 +1,18 @@
-#p1 {
-  color: red;
+.well {
+  min-height: 4.5em;
+  width: 60%;
+  margin: 2rem;
 }
 
-#button {
-  margin-left: 45%;
-  margin-top: 20%;
+.container {
+  padding: 3rem;
+  margin-top: 5rem;
+  border: solid 2px	#bbeeff;
+  border-radius: 10px;
+  background: rgba(187,238,255, 0.6);
+}
+
+body {
+  background-image: url(../img/exciting.jpeg);
+  background-size: cover;
 }
